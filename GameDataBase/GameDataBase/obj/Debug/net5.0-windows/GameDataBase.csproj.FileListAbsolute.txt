@@ -1,0 +1,81 @@
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.exe
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.deps.json
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.runtimeconfig.json
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.runtimeconfig.dev.json
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.dll
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\ref\GameDataBase.dll
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.pdb
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.Form_menu.resources
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.FormCreateAccount.resources
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.Properties.Resources.resources
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.csproj.GenerateResource.cache
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.AssemblyInfoInputs.cache
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.AssemblyInfo.cs
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.csproj.CoreCompileInputs.cache
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.dll
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\ref\GameDataBase.dll
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.pdb
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.genruntimeconfig.cache
+C:\Users\noided\source\repos\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.GameWorldMap.resources
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.csproj.AssemblyReference.cache
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.dll
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\ref\GameDataBase.dll
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.pdb
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.exe
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.deps.json
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.runtimeconfig.json
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.runtimeconfig.dev.json
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.dll
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\ref\GameDataBase.dll
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.pdb
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.Form_menu.resources
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.FormCreateAccount.resources
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.GameWorldMap.resources
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.Properties.Resources.resources
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.csproj.GenerateResource.cache
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.AssemblyInfoInputs.cache
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.AssemblyInfo.cs
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.genruntimeconfig.cache
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.csproj.CopyComplete
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Антон Фишмен\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.exe
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.deps.json
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.runtimeconfig.json
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.runtimeconfig.dev.json
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.dll
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\ref\GameDataBase.dll
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\GameDataBase.pdb
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.csproj.AssemblyReference.cache
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.Form_menu.resources
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.FormCreateAccount.resources
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.GameWorldMap.resources
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.Properties.Resources.resources
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.csproj.GenerateResource.cache
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.AssemblyInfoInputs.cache
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.AssemblyInfo.cs
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.csproj.CoreCompileInputs.cache
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.dll
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\ref\GameDataBase.dll
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.pdb
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\obj\Debug\net5.0-windows\GameDataBase.genruntimeconfig.cache
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\noided\Desktop\GameDataBase\GameDataBase\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll

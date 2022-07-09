@@ -1,0 +1,2 @@
+To run this application, open PostgreSQL and run queries in 'Database Tables.txt' and then run other queries in other file to insert values in the table. Change password 
+in PostgreSQL to what is provided in the Visual Studio project. After that you can run the app.

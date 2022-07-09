@@ -1,0 +1,101 @@
+CREATE TABLE IF NOT EXISTS public.accounts
+(
+    uname character varying(13) COLLATE pg_catalog."default" NOT NULL,
+    pasword text COLLATE pg_catalog."default",
+    salt text COLLATE pg_catalog."default",
+    CONSTRAINT accounts_pkey PRIMARY KEY (uname)
+)
+CREATE TABLE IF NOT EXISTS public.admins
+(
+    uname character varying(13) COLLATE pg_catalog."default"
+)
+CREATE TABLE IF NOT EXISTS public.mods
+(
+    uname character varying(13) COLLATE pg_catalog."default"
+)
+CREATE TABLE IF NOT EXISTS public.entities
+(
+    e_id integer NOT NULL,
+    designation character varying(35) COLLATE pg_catalog."default",
+    hp integer,
+    atk integer,
+    CONSTRAINT entities_pkey PRIMARY KEY (e_id)
+)
+CREATE TABLE IF NOT EXISTS public.items
+(
+    i_id integer NOT NULL,
+    atk_plus integer,
+    hp_plus integer,
+    CONSTRAINT items_pkey PRIMARY KEY (i_id)
+)
+CREATE TABLE IF NOT EXISTS public.pc
+(
+    e_id integer,
+    uname character varying(13) COLLATE pg_catalog."default",
+    CONSTRAINT pc_e_id_fkey FOREIGN KEY (e_id)
+        REFERENCES public.entities (e_id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+)
+CREATE TABLE IF NOT EXISTS public.npc
+(
+    e_id integer,
+    CONSTRAINT npc_e_id_fkey FOREIGN KEY (e_id)
+        REFERENCES public.entities (e_id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+)
+CREATE TABLE IF NOT EXISTS public.inventory
+(
+    uname character varying(13) COLLATE pg_catalog."default",
+    e_id integer,
+    s1 integer,
+    s2 integer,
+    s3 integer,
+    s4 integer,
+    s5 integer,
+    CONSTRAINT inventory_e_id_fkey FOREIGN KEY (e_id)
+        REFERENCES public.entities (e_id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT inventory_s1_fkey FOREIGN KEY (s1)
+        REFERENCES public.items (i_id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT inventory_s2_fkey FOREIGN KEY (s2)
+        REFERENCES public.items (i_id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT inventory_s3_fkey FOREIGN KEY (s3)
+        REFERENCES public.items (i_id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT inventory_s4_fkey FOREIGN KEY (s4)
+        REFERENCES public.items (i_id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT inventory_s5_fkey FOREIGN KEY (s5)
+        REFERENCES public.items (i_id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT inventory_uname_fkey FOREIGN KEY (uname)
+        REFERENCES public.accounts (uname) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+)
+CREATE TABLE IF NOT EXISTS public.game_map
+(
+    x integer,
+    y integer,
+    what integer
+)
+CREATE TABLE IF NOT EXISTS public.items_map
+(
+    x integer,
+    y integer,
+    entity integer,
+    CONSTRAINT game_map_entity_fkey FOREIGN KEY (entity)
+        REFERENCES public.entities (e_id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+)

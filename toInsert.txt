@@ -1,0 +1,10 @@
+insert into entities
+VALUES (0, HeadBeige,100,100);
+insert into entities
+VALUES (1, HeadBlack,100,100);
+insert into entities
+VALUES (2, HeadGrey,100,100);
+insert into entities
+VALUES (3, HeadOrange,100,100);
+insert into entities
+VALUES (4, HeadWhite,100,100);
